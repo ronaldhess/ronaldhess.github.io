@@ -1,2 +1,2 @@
 # ronaldhess.github.io
-hello
+Hello, this is my first time using GitHub
